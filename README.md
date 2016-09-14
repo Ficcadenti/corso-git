@@ -5,5 +5,5 @@
 <ul>
   <li>Lezione 01: Inizializazione repository Git.</li>
   <br>
-  <li>Lezione 02: Congigurazione Utente Git.</li>
+  <li>Lezione 02: Configurazione Utente Git.</li>
 </ul>
