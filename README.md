@@ -6,4 +6,10 @@
   <li>Lezione 01: Inizializazione repository Git.</li>
   <br>
   <li>Lezione 02: Configurazione Utente Git.</li>
+  <br>
+  <li>Lezione 03: git status/add/commit.</li>
+  <br>
+  <li>Lezione 04: git remote/branch.</li>
+  <br>
+  <li>Lezione 05: git pull/push.</li>
 </ul>
