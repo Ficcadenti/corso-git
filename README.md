@@ -1,5 +1,5 @@
 # corso-git
-<strong>Repository per lezioni corso Git</strong>
+<strong>Repository per lezioni corso Git v1.0</strong>
 <br>
 <strong>(c) 09/2016 - Raffaele Ficcadenti (<a href="mailto:raffaele.ficcadenti@gmail.com">raffaele.ficcadenti@gmail.com</a>) </strong>
 <ul>
